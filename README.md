@@ -4,13 +4,6 @@ foosball-game
 TEKsystems Foosball Championship - 2014
 
 
-
-## Building Apps With The Yeoman Workflow
-
-This is a simple demonstration of the end result when using [Yeoman](http://yeoman.io), [Grunt](http://gruntjs.com), and [Bower](http://bower.io) to create an application.
-
-[Building Apps With The Yeoman Workflow](http://stephenplusplus.github.io/me-but-you/#6-10-2013-building-apps-with-the-yeoman-workflow) walks through the steps we took to create the To Do application featured in this repository.
-
 To check it out, clone the repository, then:
 
 ```
@@ -29,3 +22,16 @@ Now that you have all of the pieces, try out:
 
 `grunt serve` to create a development server, and
 `grunt` to test and build the application.
+
+
+## Building Apps With The Yeoman Workflow
+
+[Intro][http://stephenplusplus.github.io/me-but-you/#6-10-2013-building-apps-with-the-yeoman-workflow]
+[Repo](https://github.com/yeoman/generator-backbone)
+
+
+## Frontend Tech Stack
+
+[Yeoman](http://yeoman.io)
+[Grunt](http://gruntjs.com)
+[Bower](http://bower.io)
