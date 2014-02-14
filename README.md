@@ -22,8 +22,8 @@ Now that you have all of the pieces, try out:
 
 ## Building Apps With The Yeoman Workflow
 
-- [Intro](http://stephenplusplus.github.io/me-but-you/#6-10-2013-building-apps-with-the-yeoman-workflow)
-- [Repo](https://github.com/yeoman/generator-backbone)
+- For a better understanding of the process follow [this] (http://stephenplusplus.github.io/me-but-you/#6-10-2013-building-apps-with-the-yeoman-workflow) tutorial
+- All you need to know about backbone generator click [here](https://github.com/yeoman/generator-backbone)
 
 
 ## Frontend Tech Stack
