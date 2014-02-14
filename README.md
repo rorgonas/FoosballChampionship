@@ -1,6 +1,4 @@
-foosball-game
-=============
-
+## Foosball Championship - Tournament Management App
 
 To check it out, clone the repository, then:
 
@@ -24,15 +22,16 @@ Now that you have all of the pieces, try out:
 
 ## Building Apps With The Yeoman Workflow
 
-[Intro](http://stephenplusplus.github.io/me-but-you/#6-10-2013-building-apps-with-the-yeoman-workflow) <br />
-[Repo](https://github.com/yeoman/generator-backbone)
+- [Intro](http://stephenplusplus.github.io/me-but-you/#6-10-2013-building-apps-with-the-yeoman-workflow)
+- [Repo](https://github.com/yeoman/generator-backbone)
 
 
 ## Frontend Tech Stack
 
-[Yeoman](http://yeoman.io) -
-[Grunt](http://gruntjs.com) -
-[Bower](http://bower.io)
+- [Yeoman](http://yeoman.io)
+- [Grunt](http://gruntjs.com)
+- [Bower](http://bower.io)
 
----------------------------------------
+
+=======================================
 TEKsystems Foosball Championship - 2014
