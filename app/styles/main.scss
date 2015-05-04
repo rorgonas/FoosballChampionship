@@ -36,6 +36,18 @@ body {
     padding-bottom: 19px;
 }
 
+ul {
+    list-style-type: none;
+}
+
+li {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.player-item .btn-group {
+    margin-top: 10px;
+}
+
 /* Custom page footer */
 .footer {
     padding-top: 19px;

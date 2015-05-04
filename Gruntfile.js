@@ -250,8 +250,7 @@ module.exports = function (grunt) {
                     removeOptionalTags: true*/
                 },
                 files: [{
-                    expand: true,
-                    cwd: '<%= yeoman.app %>',
+                    expand: true,cwd: '<%= yeoman.app %>',
                     src: '*.html',
                     dest: '<%= yeoman.dist %>'
                 }]
@@ -355,7 +354,7 @@ module.exports = function (grunt) {
                 'mocha',
                 'watch:test'
             ];
-            
+
         if(!isConnected) {
             return grunt.task.run(testTasks);
         } else {

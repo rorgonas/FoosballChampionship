@@ -14,6 +14,11 @@ $ cd test
 $ bower install
 ```
 
+# Make sure that you have [Ruby] (https://www.ruby-lang.org/en/documentation/installation/) installed.
+# Once is installed you can install Compass
+$gem install compass
+
+
 Now that you have all of the pieces, try out:
 
 `grunt serve` to create a development server, and

@@ -9,7 +9,10 @@
     "requirejs": "~2.1.5",
     "requirejs-text": "~2.0.5",
     "modernizr": "~2.6.2",
-    "jasny-bootstrap": "jasny/bootstrap#~3.0.1-p7"
+    "jasny-bootstrap": "jasny/bootstrap#~3.0.1-p7",
+    "backbone.marionette": "~2.4.1",
+    "handlebars": "~3.0.3",
+    "jquery-mockjax": "~1.6.2"
   },
   "devDependencies": {}
 }
