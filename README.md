@@ -12,12 +12,11 @@ $ bower install
 # The (unwritten) tests have Bower dependencies as well. Grab those:
 $ cd test
 $ bower install
-```
 
 # Make sure that you have [Ruby] (https://www.ruby-lang.org/en/documentation/installation/) installed.
 # Once is installed you can install Compass
 $gem install compass
-
+```
 
 Now that you have all of the pieces, try out:
 
